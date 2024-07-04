@@ -65,7 +65,7 @@ const Services = () => {
           <h1>
             <motion.b whileHover={{color:"rebeccapurple"}}>sobre</motion.b> mim.
           </h1>
-          <button>CONHECIMENTOS E TRAÇOS</button>
+          <button>SEU PRÓXIMO DEV JÚNIOR</button>
         </div>
       </motion.div>
       <motion.div className="listContainer" variants={variants}>
